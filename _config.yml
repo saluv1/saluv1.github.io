@@ -38,18 +38,18 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
+  email: dlwodud0206@snu.ac.kr
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: https://github.com/saluv1
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
+  instagram: https://www.instagram.com/now_0__0/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
