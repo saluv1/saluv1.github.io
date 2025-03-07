@@ -72,6 +72,11 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl:
 
+
+<div class="foot-source" style="text-align: center";>	
+			<img src="./images/strict.jpg" style="max-width: 100%;height: auto;"   class="img-responsive">
+	</div>	
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
