@@ -21,7 +21,7 @@ The cost c is equal to 0 ,if s1[i]==s2[j], or 1 , if s1[i]!=s2[j].
 ### Example
 Baekjoon 30375 Edit distance on table
 
-using above relation, we can think this problem as 0-1 bfs in 2000*100*100 space.
+using above relation, we can think this problem as 0-1 bfs in (2000,100,100) space.
 As the length changes, the minumum val of (x,y) changes. and this representation makes 1-1 corresponding between space and min-val in each situation.
 The main idea is changing the string obtained from table because the string T is constant. 
 so, we can 3 operations to the string obtained from table. and min(brr[l][x][y],1<=x<=H,1<=y<=W) is our goal.
